@@ -16,7 +16,7 @@ function updateScore() {
 }
 
 function gameOver() {
- // alert('Game Over');
+ alert('Game Over');
  location.reload();
 }
 
